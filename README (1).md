@@ -1,45 +1,62 @@
-# 🎮 Mario Bros em HTML  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Mario Bros</title>
+</head>
+<body>
+    <img src="mario.png" height="150">
+    <h1>Sobre</h1>
+    <p>
+  Super <b>Mario Bros</b> é um clássico dos videogames, lançado pela Nintendo em 1985. 
+  O jogador controla Mario (e às vezes Luigi), enfrentando inimigos e desafios 
+  para resgatar a Princesa Peach do vilão Bowser. 
+</p>
+    <h1>Games</h1>
+    <ul>
+  <li>Nintendo Entertainment System (NES)
+    <ul>
+      <li>Super Mario Bros (1985)</li>
+      <li>Super Mario Bros 3 (1988)</li>
+    </ul>
+  </li>
 
-Projeto simples em **HTML** que apresenta informações sobre os principais jogos do **Super Mario Bros**, organizados por console da Nintendo.  
+  <li>Super Nintendo (SNES)
+    <ul>
+      <li>Super Mario World (1990)</li>
+    </ul>
+  </li>
 
-Inclui:
-- 🖼️ Imagem ilustrativa do Mario  
-- 📑 Estrutura básica em HTML  
-- 🕹️ Lista de jogos organizada por gerações da Nintendo  
-- 🔗 Links de navegação fictícios (Instagram, Facebook, etc.)  
+  <li>Nintendo 64
+    <ul>
+      <li>Super Mario 64 (1996)</li>
+    </ul>
+  </li>
 
----
+  <li>Nintendo GameCube
+    <ul>
+      <li>Super Mario Sunshine (2002)</li>
+    </ul>
+  </li>
 
-## 🚀 Como acessar
-👉 [Clique aqui para ver no GitHub Pages](https://seuusuario.github.io/mario-bros-html/)  
+  <li>Nintendo DS
+    <ul>
+      <li>New Super Mario Bros (2006)</li>
+    </ul>
+  </li>
 
----
+  <li>Nintendo Wii
+    <ul>
+      <li>Super Mario Galaxy (2007)</li>
+      <li>Super Mario Galaxy 2 (2010)</li>
+    </ul>
+  </li>
 
-## 🗂️ Estrutura do projeto
-```
-mario-bros-html/
-│
-├── index.html   # Página principal
-├── mario.png    # Imagem do Mario (opcional)
-└── README.md    # Este arquivo
-```
-
----
-
-## 🕹️ Jogos por console  
-
-| Console | Jogos |
-|---------|-------|
-| 🎮 **NES** | Super Mario Bros (1985), Super Mario Bros 3 (1988) |
-| 🌈 **SNES** | Super Mario World (1990) |
-| 🌀 **Nintendo 64** | Super Mario 64 (1996) |
-| 💿 **GameCube** | Super Mario Sunshine (2002) |
-| 🎴 **Nintendo DS** | New Super Mario Bros (2006) |
-| 🎯 **Wii** | Super Mario Galaxy (2007), Super Mario Galaxy 2 (2010) |
-| 📀 **Wii U** | Super Mario 3D World (2013) |
-
----
-
-## ⭐ Sobre o Mario
-Super Mario Bros é um clássico dos videogames, lançado pela **Nintendo em 1985**.  
-O jogador controla **Mario** (e às vezes Luigi), enfrentando inimigos e desafios para resgatar a **Princesa Peach** do vilão **Bowser**.  
+  <li>Nintendo Wii U
+    <ul>
+      <li>Super Mario 3D World (2013)
+</ul>
+<a href="site1.html">X</a>|<a href="site2.html">Instagram</a>|<a href="site3.html">Facebook</a>
+</body>
+</html>
